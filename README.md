@@ -1,6 +1,5 @@
 # Minimal_Code
-Minimal code for a langage
-Minimal code for :
+Minimal code for a langage for :
 - C
 - C++
 - HTML
